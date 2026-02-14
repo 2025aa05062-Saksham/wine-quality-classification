@@ -252,8 +252,6 @@ st.markdown(
 # SIDEBAR
 # ============================================================
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
-             width=0)  # placeholder - won't load but that's ok
     st.markdown("## ⚙️ Configuration")
     st.markdown("---")
     
